@@ -1,0 +1,2 @@
+x86_64/dbeaver-ce* filter=lfs diff=lfs merge=lfs -text
+x86_64/paper-icon-theme* filter=lfs diff=lfs merge=lfs -text
