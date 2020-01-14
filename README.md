@@ -1,7 +1,7 @@
 # Archlinux Repository
-**Use this Repository**
+> Use this Repository
 
-1. copy & paste this code below into : ``/etc/pacman.conf``
+* copy & paste this code below into : ``/etc/pacman.conf``
 ```sh
 [archlinux_repo]
 SigLevel = Optional TrustedOnly
