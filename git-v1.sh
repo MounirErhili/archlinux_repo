@@ -30,11 +30,11 @@ echo "Checking for newer files online first"
 git pull #origin master
 
 # enable large files
-git lfs install
+# git lfs install
 
 # add LFS tracking
-git lfs track "x86_64/dbeaver-ce*"
-git lfs track "x86_64/paper-icon-theme*"
+# git lfs track "x86_64/dbeaver-ce*"
+# git lfs track "x86_64/paper-icon-theme*"
 
 # add all
 git add --all .
