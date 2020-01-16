@@ -49,7 +49,7 @@ read -p "if you want to continue this proccess plz press the enter key! "
 # Give a comment to the commit if you want
 echo "####################################"
 echo "#### Write your commit comment! ####"
-echo "##### Defualt = first commit!  #####"
+echo "##### Default = first commit!  #####"
 echo "####################################"
 
 read input
